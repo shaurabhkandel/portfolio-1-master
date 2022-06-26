@@ -372,12 +372,12 @@
 
 /*======services=-=====*/
 
-#services{
+#Libary{
 	position: relative;
 	width: 100%;
 	height: 100%;
 }
-#services .row{
+#Libary .row{
 	margin-left: 0px;
 	margin-right: 0px;
 }
@@ -406,7 +406,7 @@
 
 }
 
-#services .heading{
+#Libary .heading{
 	padding: 20px;
 	position: relative;
 }
@@ -430,7 +430,7 @@
 	position: relative;
 }
 
- #services .btm_text {
+ #Libary .btm_text {
 	padding: 30px;
 	text-align: center;
 	align-items: center;
@@ -438,7 +438,7 @@
 
 }
 
- #services  .btm_text p{
+ #Libary  .btm_text p{
 	text-align: center;
 	color: #fff;
 	line-height: 30px;
@@ -449,7 +449,7 @@
 }
 
 
- #services  .btm_text p a{
+ #Libary  .btm_text p a{
 	text-decoration: none;
 	color: red;
 	line-height: 30px;
@@ -538,8 +538,8 @@
 
 }
 
-/*========Experience=====*/
-#Experience{
+/*========Achievements=====*/
+#Achievements{
 	position: relative;
 	width: 100%;
 	height: 100%;
@@ -547,7 +547,7 @@
 
 }
 
-#Experience .row{
+#Achievements .row{
 	margin-left: 0px;
 	margin-right: 0px;
 }
